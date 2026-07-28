@@ -2,7 +2,7 @@
 - 👀 I’m interested in  **coding** and building cool web applications.
 - 🌱 I’m currently pursuing **Computer Science & Engineering**.
 - 💞️ I’m looking to collaborate on  **frontend development** projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-bhardwaj5)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manglam5)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The original name for Java was **Oak**, named after an oak tree outside the developer's office.
 
